@@ -5,12 +5,10 @@ def sub(a, b):
 	return a - b
 
 def mul(a, b):
-	#TODO return the right thing
-	return 0
+    	return a * b
 
 def div(a, b):
-	# TODO return the right thing
-  return 0
+	return a / b
 
 if __name__ == "__main__":
 	a = 6
